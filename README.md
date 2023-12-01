@@ -1,2 +1,2 @@
-# chscsc
-Assets and the GitHub organization README file.
+# CHSCSC
+The Century High School Computer Science Club.
